@@ -10,6 +10,7 @@ Licence 3 en Intelligence Artificielle
 
 ### Projects 
 Dogs/Cats ' classification model
+[Kawaii_cam](https://huggingface.co/spaces/ChaKaGi/Kawaii_cam) 
 
 ### Certification 
 **OpenCV**
