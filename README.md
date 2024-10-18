@@ -23,6 +23,9 @@ Le projet consiste à classer des images de chiens et de chats dans 37 catégori
 Le projet consistait à créer une application simple de traitement d’image en utilisant Python et Gradio pour l’interface utilisateur. Je suis heureux de vous annoncer que j’ai relevé ce défi et créé mon mini Photoshop, que j’ai nommé Kawai_cam. Sur cette application vous pouvez appliquer plusieurs filtres comme le négatif, le sobel, la binarisation et vous pouvez meme changer l'angle de vos photos ou les redimensionner.
 Si vous souhaitez tester mon œuvre, c’est par ici :[Kawaii_cam](https://huggingface.co/spaces/ChaKaGi/Kawaii_cam) 
 
+### Pom_Safe
+![Pom_Safe](/assets/img/apple_leaf.jpeg) 
+
 ### Certification 
 **OpenCV**
   - Tensorflow Keras Bootcamp
