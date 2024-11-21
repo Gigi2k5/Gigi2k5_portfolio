@@ -29,6 +29,12 @@ Si vous souhaitez tester mon œuvre, c’est par ici :[Kawaii_cam](https://huggi
 Le projet consiste à Utiliser des algorithmes de segmentation (comme U-Net) pour identifier et isoler les parties des plantes (feuilles, tiges, etc.) et détecter d'éventuelles anomalies. Nous avons utilisé TensorFlow pour construire un modèle de segmentation d'images à l'aide du jeu de données leaf_disease_segmentation_dataset qui contient 588 images de feuilles de pommiers malades et 588 masques correspondants à ces feuilles. Le modèle utilise l'architecture U-Net. Après l’entrainement, le modèle a atteint une précision de 83.338% sur l'ensemble de test prévu, démontrant ainsi son efficacité dans la segmentation des différentes feuilles de pommiers.
 Aussi, j’ai sorti mon app que vous pouvez tester ici : [lien de l'application](https://huggingface.co/spaces/ChaKaGi/Pom_Safe)
 
+### AppleHealth
+![Pom_Safe](/assets/img/leaf.JPG) 
+
+Le projet consiste à utiliser segmenter des feuilles de pommier pour détecter des maladies comme le stress hydrique et bien d'autres types de maladies encore. Nous avons l'algorithmee de Mean Shift pour faire la segmentation d'images à l'aide du jeu de données leaf_disease_segmentation_dataset qui contient 588 images de feuilles de pommiers malades. Il a été difficile de trouver les hyperparamètres adéquat mais à force de tests et d'essai, nous sommes parvenu à un résultat plus ou moins acceptable.
+Aussi, j’ai sorti mon app que vous pouvez tester ici : [lien de l'application](https://huggingface.co/spaces/ChaKaGi/AppleHealth)
+
 ### Certification 
 **OpenCV**
   - Tensorflow Keras Bootcamp
