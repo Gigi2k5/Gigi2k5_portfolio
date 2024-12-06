@@ -30,10 +30,16 @@ Le projet consiste à Utiliser des algorithmes de segmentation (comme U-Net) pou
 Aussi, j’ai sorti mon app que vous pouvez tester ici : [lien de l'application](https://huggingface.co/spaces/ChaKaGi/Pom_Safe)
 
 ### AppleHealth
-![Pom_Safe](/assets/img/leaf.JPG) 
+![AppleHealth](/assets/img/leaf.JPG) 
 
 Le projet consiste à utiliser segmenter des feuilles de pommier pour détecter des maladies comme le stress hydrique et bien d'autres types de maladies encore. Nous avons l'algorithmee de Mean Shift pour faire la segmentation d'images à l'aide du jeu de données leaf_disease_segmentation_dataset qui contient 588 images de feuilles de pommiers malades. Il a été difficile de trouver les hyperparamètres adéquat mais à force de tests et d'essai, nous sommes parvenu à un résultat plus ou moins acceptable.
 Aussi, j’ai sorti mon app que vous pouvez tester ici : [lien de l'application](https://huggingface.co/spaces/ChaKaGi/AppleHealth)
+
+### SafeLeaf
+![SafeLeaf] 
+
+J'ai développé mon application AppleHealth en lui ajoutant une option de classification pour effectuer le diagnostic. Pour effectuer cette t  ache de classification, j'ai utilisé l'algorithme Mean shift ce qui m'a fournit des performances passable mais dejà bien pour mettre l'application à votre disposition. Pour des soucis de déploiement que je suis entrain de résoudre je ne pourrai pas vous donner la possibilité de tester l'app mais je mets quand meme à votre disposition, une vidéo montrant comment elle fonctionne.
+Cliquez ici pour le visionnagge de la vidéo : [lien de la vidéo]
 
 ### Certification 
 **OpenCV**
