@@ -36,10 +36,10 @@ Le projet consiste à utiliser segmenter des feuilles de pommier pour détecter 
 Aussi, j’ai sorti mon app que vous pouvez tester ici : [lien de l'application](https://huggingface.co/spaces/ChaKaGi/AppleHealth)
 
 ### SafeLeaf
-![SafeLeaf] 
+![SafeLeaf](/assets/img/super_feuille.avif)
 
 J'ai développé mon application AppleHealth en lui ajoutant une option de classification pour effectuer le diagnostic. Pour effectuer cette t  ache de classification, j'ai utilisé l'algorithme Mean shift ce qui m'a fournit des performances passable mais dejà bien pour mettre l'application à votre disposition. Pour des soucis de déploiement que je suis entrain de résoudre je ne pourrai pas vous donner la possibilité de tester l'app mais je mets quand meme à votre disposition, une vidéo montrant comment elle fonctionne.
-Cliquez ici pour le visionnagge de la vidéo : [lien de la vidéo]
+Cliquez ici pour le visionnagge de la vidéo : [lien de la vidéo](https://github.com/Gigi2k5/PSVO/blob/semaine7/essai_SafeLeaf.mp4)
 
 ### Certification 
 **OpenCV**
